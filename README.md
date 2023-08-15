@@ -47,7 +47,7 @@ The vision of this application is to showcase the capabilities of CGTO processes
     j. Create FP shipment
     k. Generate Sales Order
 
-![m13](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/5cf16da9-542c-4ee7-9258-8ef0cc3eaa95)
+![1](https://github.com/lubhanigaat/ScreenShots/assets/90903166/c4bb4d35-5570-420a-ad9d-ef5881a15939)
 
 <br /><br />
 
