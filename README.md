@@ -51,7 +51,7 @@ The vision of this application is to showcase the capabilities of CGTO processes
 
 <br /><br />
 
-![m14](https://github.com/lubhanigaat/ScreenShots/assets/90903166/22184406-95c9-4f00-aa89-0e5445fe221c)
+![2](https://github.com/lubhanigaat/ScreenShots/assets/90903166/22184406-95c9-4f00-aa89-0e5445fe221c)
 
 <br /><br />
 
